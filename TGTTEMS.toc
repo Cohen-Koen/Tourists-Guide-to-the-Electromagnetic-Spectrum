@@ -11,4 +11,5 @@
 \contentsline {section}{\numberline {2.6}Broadcasting}{8}{}%
 \contentsline {section}{\numberline {2.7}Broadcasting Satellite}{8}{}%
 \contentsline {section}{\numberline {2.8}Earth Exploration Satellite}{8}{}%
-\contentsline {section}{\numberline {2.9}}{8}{}%
+\contentsline {section}{\numberline {2.9}Fixed}{8}{}%
+\contentsline {section}{\numberline {2.10}Fixed Satellite}{8}{}%
